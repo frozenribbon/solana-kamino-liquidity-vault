@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-kamino-liquidity-vault"]
+resolver = "2"
